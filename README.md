@@ -17,3 +17,6 @@ Built-in and external antenna options
           B5 @H-FDD: 850MHz 
           B20 @H-FDD: 800MHz 
           B28* @H-FDD: 700MHz 
+
+Datasheet:   https://drive.google.com/open?id=1EAOBDcit7ivzN8LGhoZO0Vxl9zNFGyNd&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1hZBE5KNt51JnB-JBwy7CHyO9O-peVLAm&usp=drive_fs
